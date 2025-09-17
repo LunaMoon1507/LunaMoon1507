@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LunaMoon1507
-- 👀 I’m interested in coding, reading, cooking, animals.
-- 🌱 I’m currently learning web design using HTML!
+- 👀 I love coding, reading, cooking, and animals.
+- 🌱 I’m currently learning web design and C++!
 - 📫 My email address: kiraluna1@gmail.com
 - ❗ Fun fact: my middle name is actually Luna (which means Moon in Spanish)
 
